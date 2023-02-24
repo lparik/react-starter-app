@@ -3,12 +3,9 @@ import "./AdminView"
 import AdminView from "./AdminView"
 
 export default function App() {
-
-    return (
-      <div>
-        <AdminView />
-      </div>
-    )
-  
+  return (
+    <div>
+      <AdminView />
+    </div>
+  )
 }
-
